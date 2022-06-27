@@ -1,3 +1,3 @@
 # new
-first project
-hello there
+my first project
+
